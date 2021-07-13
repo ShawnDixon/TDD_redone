@@ -1,0 +1,6 @@
+db.sqlite3
+geckodriver.log
+superlistsNew/__init__.py
+superlistsNew/settings.py
+superlistsNew/urls.py
+superlistsNew/wsgi.py
